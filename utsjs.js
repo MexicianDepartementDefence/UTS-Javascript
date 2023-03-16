@@ -1,4 +1,4 @@
-/*
+
 //soal nomor 1
 class jenishewan {
     constructor(hewan ,kaki, pemakan, jenis){
@@ -40,11 +40,11 @@ ayam.burung()
 console.table(monyet)
 monyet.mamalia()
 console.table(kucing)
-kucing.mamalia()*/
+kucing.mamalia()
 
 // soal nomor 2
 
-/*let klik = document.getElementById("Klik");
+let klik = document.getElementById("Klik");
 let mouse = document.getElementById("Mouse");
 let remove = document.getElementById("Remove");
 
@@ -75,4 +75,4 @@ mouse.addEventListener("mouseout", function(){
 
 remove.addEventListener("click", function(){
     document.write();
-})*/
+})
